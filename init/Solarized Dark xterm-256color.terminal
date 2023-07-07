@@ -48,8 +48,16 @@
 	b3KiFhhYTlNPYmplY3QIERokKTI3SUxRU1ddZGp3fqmrrbK9xs7RAAAAAAAAAQEAAAAA
 	AAAAGQAAAAAAAAAAAAAAAAAAANo=
 	</data>
-	<key>ShowWindowSettingsNameInTitle</key>
+	<key>ShowActiveProcessArgumentsInTitle</key>
 	<true/>
+	<key>ShowRepresentedURLInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLPathInTitle</key>
+	<true/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
+	<key>ShowWindowSettingsNameInTitle</key>
+	<false/>
 	<key>TerminalType</key>
 	<string>xterm-256color</string>
 	<key>TextBoldColor</key>
